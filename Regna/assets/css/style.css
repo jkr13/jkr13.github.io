@@ -514,6 +514,33 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
 }
+.section-titlecon {
+  font-size: 32px;
+}
+.section-header .section-titletax {
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.section-header .section-titletax1 {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.section-header .section-titleinq {
+  font-size: 31px;
+  color: rgba(10, 6, 6, 0.623);
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
 .section-header .section-title1 {
   font-size: 20px;
   color: #B0A8B9;
@@ -1111,6 +1138,10 @@ section {
   background: #f7f7f7;
   padding: 80px 0 40px 0;
 }
+#contactf {
+  background: #343b40;
+  padding: 80px 0 40px 0;
+}
 
 #contact #google-map {
   height: 300px;
@@ -1118,6 +1149,7 @@ section {
 }
 
 #contact .info {
+  font-size: 18px;
   color: #333333;
 }
 
