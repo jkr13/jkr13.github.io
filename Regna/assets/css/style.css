@@ -323,11 +323,11 @@ h6 {
   padding: 0 8px 10px 8px;
   text-decoration: none;
   display: inline-block;
-  color: rgba(0, 233, 70, 0.877);
+  color: #ff7300;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 800;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 15px;
   outline: none;
 }
 
@@ -1215,6 +1215,14 @@ section {
 }
 
 #contact .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+ .php-email-form1 {
   display: none;
   color: #fff;
   background: #18d26e;
