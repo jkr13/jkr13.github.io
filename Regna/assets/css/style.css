@@ -327,12 +327,12 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 800;
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 14px;
   outline: none;
 }
 
 .nav-menu > li {
-  margin-left: 10px;
+  margin-left: 6px;
 }
 
 .nav-menu > li > a:before {
@@ -357,7 +357,7 @@ h6 {
 
 .nav-menu ul {
   margin: 4px 0 0 0;
-  border: 1px solid #e7e7e7;
+  border: 1px solid #ff7300;
 }
 
 .nav-menu ul li {
@@ -370,7 +370,7 @@ h6 {
 
 .nav-menu ul li a {
   padding: 10px;
-  color: #333;
+  color: #ff7300;
   transition: 0.3s;
   display: block;
   font-size: 13px;
@@ -512,7 +512,7 @@ section {
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
-  margin-bottom: 5px;
+  margin-bottom: 35px;
 }
 .section-titlecon {
   font-size: 32px;
